@@ -1,8 +1,8 @@
 # python lab
 ```
-Name : Mohit Singh
+Name : Mohit chutiya
 Program : Btech CS
 roll number : 41
-Faculty : Mandeep Singh
+Faculty : Mandeep 
 CPI : 9.4
 ```
